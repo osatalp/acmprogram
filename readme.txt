@@ -1,4 +1,4 @@
-Git is a version control system.
+Git is a distributed version control system.
 Git is free software.
 
 这个仓库用来保存我的acm经历的感悟和代码
